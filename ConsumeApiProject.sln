@@ -15,9 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HotelProject.DTO", "HotelPr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HotelProject.Web", "HotelProject.Web\HotelProject.Web.csproj", "{C4866E56-42B4-4CD7-B47E-D94D187631B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RapidAPI.web", "RapidAPI.web\RapidAPI.web.csproj", "{5FE26CB2-5C35-4AB0-8621-E9BEF84FD084}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RapidAPI.web", "RapidAPI.web\RapidAPI.web.csproj", "{5FE26CB2-5C35-4AB0-8621-E9BEF84FD084}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jwt.API", "Jwt.API\Jwt.API.csproj", "{2750AB68-62B8-416D-90B8-2682848F430C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jwt.API", "Jwt.API\Jwt.API.csproj", "{2750AB68-62B8-416D-90B8-2682848F430C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
